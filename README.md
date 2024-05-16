@@ -8,8 +8,13 @@ Features:
  Bootstrap or media queries if used)
 * Customization Potential: The code is well-structured and commented, allowing for easy customization of the sidebar's appearance and behavior to match your specific design preferences.
 
-  Technologies Used:
+  Technologies Used: 
+
+
 
 HTML: Semantic structure for the sidebar elements.
 CSS: Styles applied for visual design, positioning, and responsiveness.
 JavaScript (Optional): Interactivity enhancements like menu toggling or highlighting active sections.
+
+***Project View ****
+!Dashboard slidebar (https://github.com/Naveen01S/Dashboard-SlideBar-/assets/113123789/2c1ba9db-2522-43be-9303-ae046fe5fa35)
